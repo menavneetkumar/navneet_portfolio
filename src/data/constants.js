@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/menavneetkumar",
   resume:
-    "https://drive.google.com/file/d/1b8gimxWUWKeQx4vz5A-IONg2NGzaNkTF/view?usp=sharing",
+    "https://drive.google.com/file/d/1tsM_fEmRxwTSCXg3qvI4_QJLY-ya0xKc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/navneet31",
   twitter: "https://twitter.com/Navneet423",
   insta: "#",
@@ -123,40 +123,6 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
-    id: 0,
-    img: "https://hackveda.in/i/HackvedaLogo1.png",
-    role: "Web Developer Intern",
-    company: "Hackveda Pvt. Ltd.",
-    date: "November 2023 - Present",
-    desc: "Working on the fullstack of the web application using ReactJS and Adobe XD.",
-    skills: [
-      "ReactJS",
-      "AWS",
-      "JavaScript",
-      "TypeScript",
-      "Node Js",
-      "Figma",
-      "Adobe XD"
-    ],
-    doc: "https://drive.google.com/file/d/1V1-SUpca9Sk7oUQZpNbVNXn059xC-0EP/view?usp=sharing",
-  },
-  {
-    id: 0,
-    img: "https://www.codealpha.tech/img/codealphalogo.png",
-    role: "Web Developer Intern",
-    company: "Code Alpha Pvt. Ltd.",
-    date: "October 2023 - Present",
-    desc: "Working on the frontend of the web application using ReactJS and Material UI.",
-    skills: [
-      "ReactJS",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://drive.google.com/file/d/1z3myZsziApQhDdGXocWC4AexvpVkGIoa/view?usp=sharing",
-  },
   {
     id: 1,
     img: "https://phntechnology.com/assets/images/phn_logo/phn_logo_light.svg",
